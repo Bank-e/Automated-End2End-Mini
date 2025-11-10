@@ -8,16 +8,6 @@ The test is based on the **Use Case: "Deposit Amount"**, verifying that depositi
 
 ---
 
-## 📂 Project Structure
-Automated-End2End-Mini/
-├── conf.js # Protractor configuration file
-├── spec.js # Automated test script
-├── TestCaseSpec.pdf # Test Case Specification document
-└── README.md # Project documentation
-
-
----
-
 ## ⚙️ File Descriptions
 
 ### 🧾 `conf.js`
